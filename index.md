@@ -1,5 +1,5 @@
 ---
-title: Página Wilson David Rivera
+title: Page Wilson David Rivera
 layout: home
 ---
 
