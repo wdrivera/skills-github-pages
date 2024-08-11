@@ -1,4 +1,5 @@
 ---
-title: Welcome to my blog
+title: Página Wilson David Rivera
+layout: home
 ---
 
